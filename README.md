@@ -1,6 +1,7 @@
 # PYIM - Python Instant Messaging
 
 PYIM, the better CIM.
+PYIM is a python script that allows multiple clients to communicate with each other, or broadcasting a message to multiple clients.
 
 ## Modes
 
